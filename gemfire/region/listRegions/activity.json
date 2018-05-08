@@ -1,0 +1,39 @@
+{
+  "name": "listRegions",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "ref": "github.com/dpatira88/flogo-contrib/gemfire/region/listregions",
+	"version": "0.0.1",
+	"title": "FTP GET",
+	
+  "description": "Activity to list regions in gemfire",
+  "author": "dpatira@tibco.com",
+  "inputs":[
+    {
+      "name": "host",
+      "type": "string",
+			"required": true
+    },
+	{
+      "name": "port",
+      "type": "integer",
+			"required": true
+    },
+	{
+      "name": "uri",
+      "type": "string",
+			"required": true
+    },
+	{
+      "name": "method",
+      "type": "string",
+			"required": true
+    }
+  ],
+  "outputs": [
+    {
+      "name": "regions",
+      "type": "string"
+    }
+  ]
+}
