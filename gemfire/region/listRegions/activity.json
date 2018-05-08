@@ -5,7 +5,7 @@
   "ref": "github.com/dpatira88/flogo-contrib/gemfire/region/listRegions",
 	"version": "0.0.1",
 	"title": "FTP GET",
-	
+	"homepage": "https://github.com/dpatira88/flogo-contrib/tree/master/gemfire/region/listRegions",
   "description": "Activity to list regions in gemfire",
   "author": "dpatira@tibco.com",
   "inputs":[
