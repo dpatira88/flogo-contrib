@@ -2,7 +2,7 @@
   "name": "listRegions",
   "version": "0.0.1",
   "type": "flogo:activity",
-  "ref": "github.com/dpatira88/flogo-contrib/gemfire/region/listregions",
+  "ref": "github.com/dpatira88/flogo-contrib/gemfire/region/listRegions",
 	"version": "0.0.1",
 	"title": "FTP GET",
 	
